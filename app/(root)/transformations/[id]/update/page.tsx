@@ -2,8 +2,7 @@ import React from 'react'
 
 const UpdateTransformationPage = () => {
   return (
-    <div>UpdateTransformationPage
-    </div>
+    <div>UpdateTransformationPage</div>
   )
 }
 
